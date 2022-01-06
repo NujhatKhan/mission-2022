@@ -24,7 +24,6 @@ h1{
 }
 .half-width img{
     width: 70%;
-    margin-top: 2%;
 
 }
 #vertical-line{
@@ -36,12 +35,14 @@ h1{
     padding: 10px 20px;
     background-color: #BD8E83;
     border-radius: 10px;
-    color: black;
+    color: white;
     font-weight: 600;
 
 }
-#mission{
+h2{
     font-size: 30px;
+}
+#mission{
     text-align: center;
 }
 #mission1{
@@ -57,4 +58,23 @@ h1{
     background-color: rgb(238, 215, 219);
     border-radius: 10px;
     margin-right: 5%;
+}
+#sec-three{
+    margin-top: 20px;
+    margin-right: 5%;
+    background-image: url(images/shapes/shape-5\ \(1\).png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#another-color{
+    color: #6F5B3E;
+}
+footer{
+    text-align: center;
+    background-color: #bbb0a3;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+#big-size{
+    font-size: 25px;
 }
