@@ -44,3 +44,17 @@ h1{
     font-size: 30px;
     text-align: center;
 }
+#mission1{
+    background-color: rgb(200, 228, 238);
+    border-radius: 10px;
+    margin-left: 5%;
+}
+#vision{
+    background-color: rgb(243, 204, 243);
+    border-radius: 10px;
+}
+#goal{
+    background-color: rgb(238, 215, 219);
+    border-radius: 10px;
+    margin-right: 5%;
+}
