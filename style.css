@@ -42,7 +42,7 @@ h1{
 h2{
     font-size: 30px;
 }
-#mission{
+.mission{
     text-align: center;
 }
 #mission1{
@@ -77,4 +77,12 @@ footer{
 }
 #big-size{
     font-size: 25px;
+}
+#question{
+    border-radius: 15px;
+}
+.extra-sec{
+    background-image: url(images/person/shape-4.png);
+    background-repeat: no-repeat;
+    background-position: left;
 }
